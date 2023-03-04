@@ -3,7 +3,7 @@
 
 from random import randint
 count_of_easy=10
-count_of_hard=10
+count_of_hard=5
 
 def difficulty():
     choosen_diff=input("Choose a dificulty.Type 'easy' or 'hard':")
